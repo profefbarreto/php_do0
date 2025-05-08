@@ -11,11 +11,22 @@
 
         $color = "vermelho";
         $COLOR = "Azul";
-        $coLOR = "verde";
+        $coLOR = "branco";
 
         echo "Meu carro é " . $color . ".<br>";
         echo "meu carro é " . $COLOR . ".<br>";
         echo "Meu carro é " . $coLOR . ".<br>";
+
+        //Comentário
+        #Outra forma de comentar
+
+        /* Ambos os comentários acima
+        são para uma única linhas,
+        enquanto este aqui, pode ser usado em mais 
+        linhas. */
+
+        echo "Php!"
+
 
     ?>
 
