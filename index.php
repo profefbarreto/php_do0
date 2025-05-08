@@ -9,7 +9,9 @@
     
     <?php
 
-        $color = "red";
+        $color = "vermelho";
+        $COLOR = "Azul";
+        $coLOR = "verde";
 
         echo "Meu carro é " . $color . ".<br>";
         echo "meu carro é " . $COLOR . ".<br>";
