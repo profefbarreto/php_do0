@@ -9,9 +9,11 @@
     
     <?php
 
-        echo "Olá!<br>";
-        echo "Olá<br>";
-        echo "Fazendo testes<br>";
+        $color = "red";
+
+        echo "Meu carro é " . $color . ".<br>";
+        echo "meu carro é " . $COLOR . ".<br>";
+        echo "Meu carro é " . $coLOR . ".<br>";
 
     ?>
 
